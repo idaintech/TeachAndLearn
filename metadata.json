@@ -1,0 +1,7 @@
+{
+  "name": "Teach&Learn — Safe EdTech & Peer Mentoring",
+  "description": "A safe learning ecosystem connecting children with verified teachers, student peer mentors, and parent AI co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
